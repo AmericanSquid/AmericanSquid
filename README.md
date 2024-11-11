@@ -12,9 +12,9 @@ I'm passionate about combining technology with amateur radio! Here’s what I’
 - 💬 **Ham radio**, **server building**, **creating music**, or **Baltimore history**—these are some of my many passions!
 
 ### What is currently on the bench in my radio shack?
-- Radios: Yaesu FT-710, Anytone AT-778UV, Fanon Fanfare 182F
+- **Radios:** Yaesu FT-710, Anytone AT-778UV, Fanon Fanfare 182F
 - RCA VH226F Antenna Rotator, ATU-100 tuner, AME iambic paddles, Diamond SX40C and RadioShack SWR/Power Meters, Yaesu YP150 150w Dummy Load, 757 Built custom switching power supply
-- Computers: Custom built server [click to see specs](https://americansquid.com/about/techspecs.html) **AND** overclocked Raspberry Pi 3B running LAN applications and backend for website
+- **Computers:** Custom built server [click to see specs](https://americansquid.com/about/techspecs.html) *AND* overclocked Raspberry Pi 3B running LAN applications and backend for website
 - Matrix Portal M4 with animated graphics to enhance the vibes!
 
 ### Contact Me
