@@ -2,8 +2,8 @@
 
 I'm passionate about combining technology with amateur radio! Here’s what I’m currently working on:
 
-- 🔭 **CalamariDash**: Integrating Affirmatech's HamDash and CQRLog to enable Linux contesters to display real-time scores on a shared leaderboard with other participants.
-- 🌐 **Squid Spots**: A web-based POTA (Parks on the Air) logger that centralizes user activation logs in a single database.
+- 🔭 **CalamariDash**: Integrating Affirmatech's HamDash and popular logging applications to enable Linux contesters to display real-time scores on a shared leaderboard with other participants.
+- 🌐 **CouponSheet**: A Node.js app that provides coupon redemption functionality, serving coupon data from a MariaDB database, and sending email notifications upon coupon redemption.
 
 ### Collaboration
 - 👯 I’m always open to collaborating on **amateur radio applications**.
