@@ -3,6 +3,7 @@
 I'm passionate about combining technology with amateur radio! Here’s what I’m currently working on:
 
 - 🔭 **CalamariDash**: Integrating Affirmatech's HamDash and popular logging applications to enable Linux contesters to display real-time scores on a shared leaderboard with other participants.
+- 🤖 **K3AYV's MeshBot**: A Python-based library of additional features designed to be added to Meshtastic nodes, ranging from fun to utilitarian. Future plans include making it modular, with a GUI for easier user customization. More expansive features are also in the works, aiming to benefit the entire community where the bot is being served over the mesh.
 - 🌐 **CouponSheet**: A Node.js app that provides coupon redemption functionality, serving coupon data from a MariaDB database, and sending email notifications upon coupon redemption.
 
 ### Collaboration
